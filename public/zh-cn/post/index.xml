@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 乡村朋克</title>
+        <link>http://davidjqq19.github.io/zh-cn/post/</link>
+        <description>Recent content in Posts on 乡村朋克</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://davidjqq19.github.io/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>第一篇博客</title>
+        <link>http://davidjqq19.github.io/zh-cn/p/first-blog/</link>
+        <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://davidjqq19.github.io/zh-cn/p/first-blog/</guid>
+        <description>&lt;p&gt;从今天起开始写文章，记录一下学习、工作和生活。&lt;/p&gt;
+&lt;p&gt;昨天花了一晚上搭建起来的，对Hugo和这个stack模板都还不熟悉，慢慢摸索。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
