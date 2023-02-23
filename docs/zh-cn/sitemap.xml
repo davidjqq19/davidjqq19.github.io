@@ -2,131 +2,144 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://davidjqq19.github.io/zh-cn/</loc>
+    <loc>davidjqq19.github.io/zh-cn/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://davidjqq19.github.io/"
+                href="davidjqq19.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://davidjqq19.github.io/zh-cn/"
+                href="davidjqq19.github.io/zh-cn/"
                 />
   </url><url>
-    <loc>http://davidjqq19.github.io/zh-cn/categories/</loc>
+    <loc>davidjqq19.github.io/zh-cn/categories/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://davidjqq19.github.io/categories/"
+                href="davidjqq19.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://davidjqq19.github.io/zh-cn/categories/"
+                href="davidjqq19.github.io/zh-cn/categories/"
                 />
   </url><url>
-    <loc>http://davidjqq19.github.io/zh-cn/post/</loc>
+    <loc>davidjqq19.github.io/zh-cn/post/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://davidjqq19.github.io/post/"
+                href="davidjqq19.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://davidjqq19.github.io/zh-cn/post/"
+                href="davidjqq19.github.io/zh-cn/post/"
                 />
   </url><url>
-    <loc>http://davidjqq19.github.io/zh-cn/p/first-blog/</loc>
+    <loc>davidjqq19.github.io/zh-cn/p/test/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://davidjqq19.github.io/p/first-blog/"
+                href="davidjqq19.github.io/p/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://davidjqq19.github.io/zh-cn/p/first-blog/"
+                href="davidjqq19.github.io/zh-cn/p/test/"
                 />
   </url><url>
-    <loc>http://davidjqq19.github.io/zh-cn/categories/other/</loc>
+    <loc>davidjqq19.github.io/zh-cn/p/first-blog/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://davidjqq19.github.io/categories/other/"
+                href="davidjqq19.github.io/p/first-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://davidjqq19.github.io/zh-cn/categories/other/"
+                href="davidjqq19.github.io/zh-cn/p/first-blog/"
                 />
   </url><url>
-    <loc>http://davidjqq19.github.io/zh-cn/page/</loc>
+    <loc>davidjqq19.github.io/zh-cn/categories/other/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="davidjqq19.github.io/categories/other/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="davidjqq19.github.io/zh-cn/categories/other/"
+                />
+  </url><url>
+    <loc>davidjqq19.github.io/zh-cn/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://davidjqq19.github.io/page/"
+                href="davidjqq19.github.io/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://davidjqq19.github.io/zh-cn/page/"
+                href="davidjqq19.github.io/zh-cn/page/"
                 />
   </url><url>
-    <loc>http://davidjqq19.github.io/zh-cn/archives/</loc>
+    <loc>davidjqq19.github.io/zh-cn/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://davidjqq19.github.io/archives/"
+                href="davidjqq19.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://davidjqq19.github.io/zh-cn/archives/"
+                href="davidjqq19.github.io/zh-cn/archives/"
                 />
   </url><url>
-    <loc>http://davidjqq19.github.io/zh-cn/tags/</loc>
+    <loc>davidjqq19.github.io/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://davidjqq19.github.io/tags/"
+                href="davidjqq19.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://davidjqq19.github.io/zh-cn/tags/"
+                href="davidjqq19.github.io/zh-cn/tags/"
                 />
   </url><url>
-    <loc>http://davidjqq19.github.io/zh-cn/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>davidjqq19.github.io/zh-cn/%E9%93%BE%E6%8E%A5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://davidjqq19.github.io/links/"
+                href="davidjqq19.github.io/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://davidjqq19.github.io/zh-cn/%E9%93%BE%E6%8E%A5/"
+                href="davidjqq19.github.io/zh-cn/%E9%93%BE%E6%8E%A5/"
                 />
   </url><url>
-    <loc>http://davidjqq19.github.io/zh-cn/search/</loc>
+    <loc>davidjqq19.github.io/zh-cn/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://davidjqq19.github.io/search/"
+                href="davidjqq19.github.io/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://davidjqq19.github.io/zh-cn/search/"
+                href="davidjqq19.github.io/zh-cn/search/"
                 />
   </url>
 </urlset>

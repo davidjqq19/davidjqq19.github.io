@@ -2,34 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>乡村朋克</title>
-        <link>http://davidjqq19.github.io/</link>
+        <link>davidjqq19.github.io/</link>
         <description>Recent content on 乡村朋克</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://davidjqq19.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>第一篇博客</title>
-        <link>http://davidjqq19.github.io/p/first-blog/</link>
+        <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="davidjqq19.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>测试</title>
+        <link>davidjqq19.github.io/p/test/</link>
         <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://davidjqq19.github.io/p/first-blog/</guid>
+        <guid>davidjqq19.github.io/p/test/</guid>
+        <description>&lt;p&gt;测试文件丢失的问题&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>第一篇博客</title>
+        <link>davidjqq19.github.io/p/first-blog/</link>
+        <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+        
+        <guid>davidjqq19.github.io/p/first-blog/</guid>
         <description>&lt;p&gt;从今天起开始写文章，记录一下学习、工作和生活。&lt;/p&gt;
 &lt;p&gt;昨天花了一晚上搭建起来的，对Hugo和这个stack模板都还不熟悉，慢慢摸索。&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Archives</title>
-        <link>http://davidjqq19.github.io/archives/</link>
+        <link>davidjqq19.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://davidjqq19.github.io/archives/</guid>
+        <guid>davidjqq19.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>http://davidjqq19.github.io/links/</link>
+        <link>davidjqq19.github.io/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://davidjqq19.github.io/links/</guid>
+        <guid>davidjqq19.github.io/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -61,10 +70,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>http://davidjqq19.github.io/search/</link>
+        <link>davidjqq19.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://davidjqq19.github.io/search/</guid>
+        <guid>davidjqq19.github.io/search/</guid>
         <description></description>
         </item>
         
