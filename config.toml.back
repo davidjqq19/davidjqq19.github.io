@@ -1,0 +1,3 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-Hans'
+title = '乡村朋克'
